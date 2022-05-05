@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { gender, Job, User } from 'src/app/models/user';
+import { gender, Job, User } from '../../../models/user';
 
 @Component({
   selector: 'app-user-detail',
