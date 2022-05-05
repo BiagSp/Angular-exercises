@@ -24,7 +24,8 @@ import { UserDetailComponent } from './container-principale/user-container/user-
     OrderSingleComponent,
     OrderDetailComponent,
     UserContainerComponent,
-    UserDetailComponent
+    UserDetailComponent,
+    
   ],
   imports: [
     BrowserModule,
