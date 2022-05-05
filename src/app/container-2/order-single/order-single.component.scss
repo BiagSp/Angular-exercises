@@ -1,0 +1,14 @@
+.container-detail {
+    width: max-content;
+    height: max-content;
+    background: rgb(255, 189, 8);
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    align-items: center;  
+    margin-bottom: 1rem;  
+}
+
+.container-component {
+    display: flex;
+}
